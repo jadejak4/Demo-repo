@@ -18,6 +18,7 @@ public class Main {
             catch (SerialPortException ex) {
                 System.out.println(ex);
             }
+            System.out.println("Hello World");
         }
 	// write your code here
     }
